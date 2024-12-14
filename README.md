@@ -4,10 +4,12 @@
 
 [![Inder's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/468724?theme=dark)](https://stackoverflow.com/users/468724/inder-kumar-rathore?tab=profile)
 
+
+<!---
 [![](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/ios/468724?theme=dark)](https://stackoverflow.com/users/468724/inder-kumar-rathore?tab=profile)
 [![](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/swift/468724?theme=dark)](https://stackoverflow.com/users/468724/inder-kumar-rathore?tab=profile)
 [![](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/objective-c/468724?theme=dark)](https://stackoverflow.com/users/468724/inder-kumar-rathore?tab=profile)
-
+--->
 
 
 
